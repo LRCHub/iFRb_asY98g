@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "見ル見エル",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:26:44.752116Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "見ル見エル (feat. 安次嶺希和子)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_見ル見エル_(feat._安次嶺希和子)_未来古代楽団.txt"
+    }
+  ]
+}
